@@ -1,65 +1,92 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Hey%2C%20I%27m%20Karthik%20👋&fontSize=55&animation=twinkling" />
+
+<!-- 3D / Neon Banner -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Karthik%20Yadav&fontSize=50&fontColor=ffffff&animation=twinkling" />
+
+### 🚀 Backend Developer in the Making | Java • Spring Boot
+
 </div>
 
 ---
 
-### 👋 About Me
-
-I'm **Karthik**, a passionate backend-focused developer and CSE student exploring scalable systems.  
-Currently building backend services with **Java, Spring Boot & MySQL**.  
-I love going deeper into how systems work — from network protocols to cloud fundamentals.
-
----
-
-### 🛠️ Skills
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,spring,mysql,linux&theme=dark" />
+
+<!-- 3D Skill Badges -->
+
+<img src="https://skillicons.dev/icons?i=java,c,python,spring,mysql,linux&theme=dark" />
+
 </div>
 
 ---
 
-### 💻 Tech Stack
+## 👨‍💻 About Me
+
+🧠 I’m a **Computer Science & Engineering student** who loves building things **behind the scenes** — APIs, databases, and backend systems that scale.
+
+⚙️ I enjoy understanding **how systems work internally**, not just making them work.
+
+☁️ Currently exploring **Cloud & DevOps fundamentals** alongside backend engineering.
+
+---
+
+## 🛠️ Tech Stack (3D View)
+
+```text
+┌─────────────────────────────────────┐
+│  Backend        : Java, Spring Boot │
+│  Languages      : Java | C | Python │
+│  Database       : MySQL             │
+│  OS & Tools     : Linux (Basics)    │
+│  CS Foundations : Computer Networks │
+└─────────────────────────────────────┘
+```
+
+---
+
+## 🚀 Interests
+
+* 🔧 Backend Engineering
+* 🧩 System Design (Beginner → Advanced)
+* ☁️ Cloud Computing (Learning Phase)
+* 🌍 Open Source Contributions
+
+---
+
+## 📚 Currently Learning
+
+* Advanced **Spring Boot & REST APIs**
+* Backend architecture & clean code practices
+* Cloud basics (Docker, deployment, CI/CD intro)
+
+---
+
+## 🎯 Long-Term Goals
+
+* Become a **strong backend engineer**
+* Contribute to **impactful open-source projects**
+* Build **real-world, scalable systems**
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=springboot,javac,py,c,mysql,github" />
+
+## 🤝 Connect With Me
+
+<a href="https://github.com/your-github-username">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
 
 ---
 
-### 📊 GitHub Stats
-
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-
----
-
-### 📈 Productivity
-
-![Most Productive Times](https://github-readme-activity-graph.cyclic.app/graph?username=your-github-username&theme=github_dark)
-
----
-
-### 🔭 Currently Building
-
-> Backend systems, APIs, Spring Boot services, and learning cloud fundamentals.
-
----
-
-### ⭐ Life Motto
-
-> “Build systems that scale and solve real problems.”
-
----
-
-### 🌐 Connect With Me
-
 <div align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+✨ *Building depth, not just projects.* ✨
+
 </div>
