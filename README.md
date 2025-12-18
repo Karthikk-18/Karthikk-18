@@ -73,11 +73,11 @@
 
 ## 🤝 Connect With Me
 
-<a href="https://github.com/your-github-username">
+<a href="https://github.com/Karthikk-18">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/karthik-gudaru-b10734332/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
