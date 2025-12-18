@@ -2,9 +2,9 @@
 
 <!-- 3D / Neon Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Karthik%20Yadav&fontSize=50&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928DAB&height=220&section=header&text=Karthik%20&fontSize=50&fontColor=ffffff&animation=twinkling" />
 
-### 🚀 Backend Developer in the Making | Java • Spring Boot
+### 🚀 Backend Developer | Java • Spring Boot
 
 </div>
 
