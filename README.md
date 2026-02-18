@@ -25,3 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthikk-18&icon=0&color=8)](https://visitcount.itsvg.in)
 
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikk-18)](https://github.com/anuraghazra/github-readme-stats)
