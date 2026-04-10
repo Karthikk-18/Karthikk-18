@@ -1,4 +1,5 @@
-
+Hey, I'm Karthik.
+I like breaking complex tech.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthikk-18&icon=0&color=8)](https://visitcount.itsvg.in)
